@@ -1,5 +1,5 @@
 /**
- * Created by aleksandrap on 7/13/2016.
+ * Write a method that gets a number from 1-10 and return the roman number sign
  */
 public class RomanNumber {
 
