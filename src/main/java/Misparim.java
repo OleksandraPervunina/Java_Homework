@@ -1,5 +1,8 @@
 /**
- * Created by aleksandrap on 7/13/2016.
+ * Write a program called Misparim which prints the numbers 1 to 20 as follows:
+ First row - all the numbers which are multiples of 2
+ Second row - all the numbers which are multiples of 3
+ Third row - all the numbers which are multiples of 4
  */
 public class Misparim {
 
