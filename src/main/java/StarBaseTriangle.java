@@ -1,5 +1,10 @@
 /**
- * Created by aleksandrap on 7/13/2016.
+ * Write a program called StarBaseTriangle that displays a triangle with ‘n’ star base. for example per n=5 triangle pattern should look like:
+ *
+ **
+ ***
+ ****
+ *****
  */
 public class StarBaseTriangle {
 
