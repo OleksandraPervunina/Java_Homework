@@ -1,5 +1,5 @@
 /**
- * Created by aleksandrap on 7/13/2016.
+ * By using for loop write a program called Factorial which calculates n! and prints the result.
  */
 public class Factorial {
 
